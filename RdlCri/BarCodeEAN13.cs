@@ -75,7 +75,7 @@ namespace fyiReporting.CRI
 //�  A normal Guard Bar Pattern
 //�  A right Quiet Zone
 
-        static public readonly float OptimalHeight = 25.91f;          // Optimal height at magnification 1    
+        static public readonly float OptimalHeight = 10.91f;          // Optimal height at magnification 1    
         static public readonly float OptimalWidth = 37.29f;            // Optimal width at mag 1
         static readonly float ModuleWidth = 0.33f;             // module width in mm at mag factor 1
         static readonly float FontHeight = 8;                  // Font height at mag factor 1
